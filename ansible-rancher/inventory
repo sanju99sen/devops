@@ -1,0 +1,3 @@
+[rke_rancher_clusters]
+controlplane02  ansible_host=192.168.29.95      ansible_ssh_user=root
+

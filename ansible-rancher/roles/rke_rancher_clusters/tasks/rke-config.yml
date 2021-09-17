@@ -1,0 +1,5 @@
+---
+
+- name: Create RKE Config
+  shell:
+     cmd: sh generate_config.sh
